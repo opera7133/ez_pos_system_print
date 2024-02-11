@@ -1,0 +1,15 @@
+{
+  "mode": "bluetooth",
+  "shop": {
+    "name": "Example Shop",
+    "address": "東京都新宿区西新宿2-8-1"
+  },
+  "firebase": {
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": ""
+  }
+}
