@@ -30,11 +30,11 @@ EZ POS SYSTEMのレシート印刷システム。
 
 2. いつもの
 
-## 注意事項
-
-[smareceipt](https://github.com/opera7133/smareceipt#注意)を参考にしてください。
-
 ```
 pnpm i
 pnpm run start
 ```
+
+## 注意事項
+
+[smareceipt](https://github.com/opera7133/smareceipt#注意)を参考にしてください。
