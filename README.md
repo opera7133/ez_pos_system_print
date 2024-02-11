@@ -2,6 +2,10 @@
 
 EZ POS SYSTEMのレシート印刷システム。
 
+POSアプリ：[EZ POS SYSTEM APP](https://github.com/opera7133/ez_pos_system_app)
+
+カスタマーディスプレイ：[EZ POS SYSTEM WEB](https://github.com/opera7133/ez_pos_system_web)
+
 ## 使い方
 
 1. `config/example.json`を`config/default.json`にコピーして設定
